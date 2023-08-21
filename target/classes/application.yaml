@@ -1,0 +1,5 @@
+aws:
+  s3:
+    accessKey: AKIAVGEMW2FJAR4TZ7OT
+    secretKey: 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
+    region: ap-south-1
